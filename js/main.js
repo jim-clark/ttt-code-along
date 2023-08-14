@@ -1,7 +1,7 @@
 /*----- constants -----*/
 const COLOR_LOOKUP = {
   '1': 'purple',
-  '-1': 'orange',
+  '-1': 'lime',
   null: 'white'
 };
 
